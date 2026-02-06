@@ -30,3 +30,5 @@ Thumbs.db
 # ---- Test / debug artifacts ----
 *.tmp
 *.bak
+
+/input_files
